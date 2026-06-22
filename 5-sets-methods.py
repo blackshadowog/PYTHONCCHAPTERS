@@ -1,0 +1,10 @@
+s={1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,15,2}
+s.add(45)
+print(s)
+s.remove(1)
+print(s)
+print(len(s))
+s.pop()
+print(s)
+s.clear()
+print(s)

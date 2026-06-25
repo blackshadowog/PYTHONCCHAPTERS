@@ -1,5 +1,7 @@
-a=1 # integer
-b=3.14 #floting
-c="nong" #string
-d= False , e= True #boolean
-f= None #NOTHING
+a = [1, "harry" , "rohan", "bat", "dog"]
+
+i=0
+
+while(i<len(a)):
+      print(a[i])
+      i= i+1
